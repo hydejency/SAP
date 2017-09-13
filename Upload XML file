@@ -1,4 +1,6 @@
-  METHOD upload_xml_file.
+  //  !
+  
+  METHOD upload_xml_file.
 
     "a specific data with type IV_DDICTYPE to receive EV_DATA is required
     DATA: lo_data TYPE REF TO data.
