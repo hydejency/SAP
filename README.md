@@ -1,4 +1,4 @@
-# SAP
+# Create method in SE24
 ![image](https://github.com/liuhaibohyde/SAP/blob/master/Untitled%20picture.png)
 
   METHOD upload_xml_file.
